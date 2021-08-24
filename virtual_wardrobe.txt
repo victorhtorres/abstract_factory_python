@@ -1,0 +1,1 @@
+{'Cold Formal Day Business Suit': 3, 'Light Colored Outfit for a Cold and Casual Day': 1, 'Dark Colored Outfit for a Semi-Formal Day': 2}
